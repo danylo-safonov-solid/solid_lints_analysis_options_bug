@@ -1,0 +1,7 @@
+include: package:solid_lints/analysis_options.yaml
+
+linter:
+  rules:
+    public_member_api_docs: false
+    use_setters_to_change_properties: false
+    always_put_required_named_parameters_first: false
